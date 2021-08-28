@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "movie name #1",
+      "production_year": 2021,
+      "duration": 110,
+      "id": 0,
+      "actors": [
+        {
+          "first_name": "first name",
+          "last_name": "last name",
+          "sex": "Male",
+          "nationality": "nation #1"
+        },
+        {
+          "first_name": "first name2",
+          "last_name": "last name2",
+          "sex": "Male",
+          "nationality": "nation #2"
+        },
+        {
+          "first_name": "first name3",
+          "last_name": "last name3",
+          "sex": "Male",
+          "nationality": "nation #3"
+        },
+        {
+          "first_name": "first name4",
+          "last_name": "last name4",
+          "sex": "Male",
+          "nationality": "nation #4"
+        },
+        {
+          "first_name": "first name5",
+          "last_name": "last name5",
+          "sex": "Male",
+          "nationality": "nation #5"
+        }
+      ]
+    },
+    {
+      "image": "2.jpg",
+      "name": "movie name #2",
+      "production_year": 2021,
+      "duration": 120,
+      "id": 1,
+      "actors": [
+        {
+          "first_name": "first name",
+          "last_name": "last name",
+          "sex": "Male",
+          "nationality": "nation #1"
+        },
+        {
+          "first_name": "first name2",
+          "last_name": "last name2",
+          "sex": "Male",
+          "nationality": "nation #2"
+        },
+        {
+          "first_name": "first name3",
+          "last_name": "last name3",
+          "sex": "Male",
+          "nationality": "nation #3"
+        },
+        {
+          "first_name": "first name4",
+          "last_name": "last name4",
+          "sex": "Male",
+          "nationality": "nation #4"
+        },
+        {
+          "first_name": "first name5",
+          "last_name": "last name5",
+          "sex": "Male",
+          "nationality": "nation #5"
+        }
+      ]
+    },
+    {
+      "image": "3.jpg",
+      "name": "movie name #3",
+      "production_year": 2021,
+      "duration": 130,
+      "id": 2,
+      "actors": [
+        {
+          "first_name": "first name",
+          "last_name": "last name",
+          "sex": "Male",
+          "nationality": "nation #1"
+        },
+        {
+          "first_name": "first name2",
+          "last_name": "last name2",
+          "sex": "Male",
+          "nationality": "nation #2"
+        },
+        {
+          "first_name": "first name3",
+          "last_name": "last name3",
+          "sex": "Male",
+          "nationality": "nation #3"
+        },
+        {
+          "first_name": "first name4",
+          "last_name": "last name4",
+          "sex": "Male",
+          "nationality": "nation #4"
+        },
+        {
+          "first_name": "first name5",
+          "last_name": "last name5",
+          "sex": "Male",
+          "nationality": "nation #5"
+        }
+      ]
+    }
+  ]
+}
